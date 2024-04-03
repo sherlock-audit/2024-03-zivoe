@@ -4,3 +4,9 @@
 [submodule "zivoe-core-foundry/lib/openzeppelin-contracts"]
 	path = zivoe-core-foundry/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts/
+[submodule "zivoe-core-testing/lib/forge-std"]
+	path = zivoe-core-testing/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "zivoe-core-testing/lib/zivoe-core-foundry"]
+	path = zivoe-core-testing/lib/zivoe-core-foundry
+	url = https://github.com/Zivoe/zivoe-core-foundry
